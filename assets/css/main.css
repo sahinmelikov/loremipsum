@@ -1,0 +1,41 @@
+.WhatL{
+width: 14cm;
+height: 7.5cm;
+
+}
+h1{
+font-family: DauphinPlain;
+font-size: 70px;}
+p{
+font-size: 15px;
+text-align: justify;}
+h2{
+font-family: DauphinPlain;}
+.tel{
+width: 1.3cm;
+height: 0.8cm;}
+.gap{
+gap: 20px;}
+.WhatL2{
+width: 14cm;
+height: 4.3cm;
+
+}
+.cart{
+width: 6cm;
+height: 2cm;
+
+font-family: Brush Script MT;}
+.aa a{
+color: black;
+
+}
+.Lorem  a{
+
+color: black;
+transition: 0.5s;
+}
+.Lorem a:hover{
+color: red;
+}
+
